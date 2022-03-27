@@ -1,5 +1,5 @@
 <p align="center">
-  <img width='650' src='https://github.com/chivington/nand2tetris/blob/main/nand2tetris.jpg' alt='nand2tetris image'/>
+  <img width='650' src='https://github.com/chivington/nand2tetris/blob/master/nand2tetris.jpg' alt='nand2tetris image'/>
 </p>
 
 # nand2tetris
